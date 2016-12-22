@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=open+sans:200,300,400,500,600,700,800");
+@import url("https://fonts.googleapis.com/css?family=open+sans:,300,400,500,600,700,800");
 /*--------------------*\
        Variables
 \*--------------------*/
@@ -142,12 +142,12 @@ body {
   max-width: 325px; }
   @media screen and (max-width: 790px) {
     .logo {
-      display: inline-block;
+      display: block;
       position: relative;
       margin: auto;
       float: none;
       margin-top: .7rem;
-      max-width: 200px; } }
+      max-width: 180px; } }
 
 .navbar-brand {
   padding: 12px; }
