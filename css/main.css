@@ -452,7 +452,7 @@ ul.menu {
   @media screen and (max-width: 790px) {
     .contact {
       width: 80%;
-      padding: 3.25rem 35px 8rem;} }
+      padding: 3.25rem 35px 5rem;} }
 
 .contact_leadin {
   text-align: center;
