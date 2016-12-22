@@ -346,8 +346,11 @@ ul.menu {
         padding-bottom: 2%; } }
 
 .sevice_description {
-  font-size: 0.9rem;
   padding: 0 1.5rem; }
+
+@media screen and (min-width: 790px) {
+  .sevice_description {
+         font-size: 0.9rem;}}
 
 .sevice_description_title {
   color: #e36a6b;
