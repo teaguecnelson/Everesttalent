@@ -147,7 +147,7 @@ body {
       margin: auto;
       float: none;
       margin-top: .7rem;
-      max-width: 250px; } }
+      max-width: 220px; } }
 
 .navbar-brand {
   padding: 12px; }
@@ -231,15 +231,15 @@ ul.menu {
 \*--------------------*/
 .about {
   position: relative;
-  width: 63%;
+  width: 80%;
   margin: auto;
   padding: 35px;
   padding-top: 50px;
-  padding-bottom: 7rem;
   max-width: 650px; }
-  @media screen and (max-width: 790px) {
+  @media screen and (min-width: 790px) {
     .about {
-      width: 80%; } }
+     width: 63%;
+     padding-bottom: 7rem;} }
 
 .about_leadin {
   text-align: center;
