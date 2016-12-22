@@ -201,7 +201,7 @@ ul.menu {
   background-color: #231F20;
   overflow: hidden; }
   @media screen and (max-width: 790px) {
-         .hero {height: 90vh;}}
+         .hero {height: 95vh;}}
 
 .hero_img {
   position: relative;
@@ -225,7 +225,7 @@ ul.menu {
     .slogan {
       left: 10%;
       right: 10%;
-      bottom: 20%; } }
+      bottom: 15%; } }
 
 /*--------------------*\
          About
