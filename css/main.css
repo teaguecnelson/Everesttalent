@@ -200,6 +200,8 @@ ul.menu {
   height: 78vh;
   background-color: #231F20;
   overflow: hidden; }
+  @media screen and (max-width: 790px) {
+         .hero {height: 90vh;}}
 
 .hero_img {
   position: relative;
