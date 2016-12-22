@@ -139,7 +139,7 @@ body {
   float: left;
   margin-top: 0.4rem;
   max-height: 50px;
-  max-width: 200px; }
+  max-width: 325px; }
   @media screen and (max-width: 790px) {
     .logo {
       display: block;
@@ -147,7 +147,7 @@ body {
       margin: auto;
       float: none;
       margin-top: .7rem;
-      max-width: 220px; } }
+      max-width: 200px; } }
 
 .navbar-brand {
   padding: 12px; }
