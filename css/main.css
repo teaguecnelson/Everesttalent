@@ -350,6 +350,7 @@ ul.menu {
 
 @media screen and (min-width: 790px) {
   .sevice_description {
+         padding: 0.5rem 1.5rem;
          font-size: 0.9rem;}}
 
 .sevice_description_title {
