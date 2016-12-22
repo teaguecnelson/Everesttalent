@@ -142,7 +142,7 @@ body {
   max-width: 325px; }
   @media screen and (max-width: 790px) {
     .logo {
-      display: block;
+      display: inline-block;
       position: relative;
       margin: auto;
       float: none;
