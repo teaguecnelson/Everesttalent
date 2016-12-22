@@ -139,7 +139,7 @@ body {
   float: left;
   margin-top: 0.4rem;
   max-height: 50px;
-  max-width: 280px; }
+  max-width: 250px; }
   @media screen and (max-width: 790px) {
     .logo {
       display: block;
