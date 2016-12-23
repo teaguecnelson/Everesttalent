@@ -18,7 +18,7 @@ h1 {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   font-weight: 300; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     h1 {
       font-size: 3.75rem; } }
 
@@ -69,7 +69,7 @@ a:hover {
   font-weight: 300;
   color: #231f20;
   line-height: 1.25rem; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .scroll-link {
       font-size: 1.5rem;
       margin-top: .5rem; } }
@@ -98,7 +98,7 @@ body {
 
 .spacer {
   height: 3rem; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .spacer {
       height: 0rem; } }
 
@@ -116,7 +116,7 @@ body {
 .navbar {
   border: none; }
 
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 915px) {
   .nav {
     position: relative; } }
 
@@ -129,7 +129,7 @@ body {
   display: inline-block;
   position: relative;
   padding-top: 12px; }
-  @media (min-width: 790px) {
+  @media (min-width: 915px) {
     .navbar-nav {
       float: right; } }
 
@@ -140,7 +140,7 @@ body {
   margin-top: 0.4rem;
   max-height: 50px;
   max-width: 325px; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .logo {
       position: relative;
       margin: auto;
@@ -150,7 +150,7 @@ body {
 
 .navbar-brand {
   padding: 12px; }
-  @media (min-width: 790px) {
+  @media (min-width: 915px) {
     .navbar-brand {
       padding-left: 0; } }
 
@@ -159,7 +159,7 @@ ul.menu {
   position: relative;
   float: right;
   bottom: 5px; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     ul.menu {
       display: none; } }
 
@@ -185,7 +185,7 @@ ul.menu {
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
   border: none; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
       background-color: #ffffff;
       padding-bottom: .5rem; } }
@@ -200,7 +200,7 @@ ul.menu {
   height: 78vh;
   background-color: #231F20;
   overflow: hidden; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
          .hero {height: 95vh;}}
 
 .hero_img {
@@ -221,7 +221,7 @@ ul.menu {
   right: 20%;
   text-align: center;
   opacity: 100; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .slogan {
       left: 10%;
       right: 10%;
@@ -237,7 +237,7 @@ ul.menu {
   padding: 35px;
   padding-top: 50px;
   max-width: 650px; }
-  @media screen and (min-width: 790px) {
+  @media screen and (min-width: 915px) {
     .about {
      width: 63%;
      padding-bottom: 7rem;} }
@@ -245,7 +245,7 @@ ul.menu {
 .about_leadin {
   text-align: center;
   padding: 1rem 0 1rem; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .about_leadin {
       text-align: left; } }
 
@@ -306,7 +306,7 @@ ul.menu {
     max-width: 75%;
     padding-top: 2%;
     padding-bottom: 2%; }
-  @media screen and (min-width: 790px) {
+  @media screen and (min-width: 915px) {
     .companies {
       position: relative;
       text-align: center;
@@ -348,7 +348,7 @@ ul.menu {
 .sevice_description {
   padding: 0 1.5rem; }
 
-@media screen and (min-width: 790px) {
+@media screen and (min-width: 915px) {
   .sevice_description {
          padding: 0.5rem 1.5rem;
          font-size: 0.9rem;}}
@@ -367,7 +367,7 @@ ul.menu {
   width: 80%;
   padding-top: 4.5rem;
   height: auto; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .team {
       max-width: 400px;
       margin: 0 auto; } }
@@ -404,7 +404,7 @@ ul.menu {
   .team .person {
     width: 100%;
     object-fit: contain; }
-  @media screen and (min-width: 790px) {
+  @media screen and (min-width: 915px) {
     .team {
       position: relative;
       text-align: center;
@@ -449,7 +449,7 @@ ul.menu {
   margin: auto;
   padding: 3.25rem 35px 12rem;
   max-width: 650px; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .contact {
       width: 80%;
       padding: 3.25rem 35px 5rem;} }
@@ -457,7 +457,7 @@ ul.menu {
 .contact_leadin {
   text-align: center;
   padding: 1rem 0 1rem; }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 915px) {
     .contact_leadin {
       text-align: left; } }
 
@@ -476,7 +476,7 @@ ul.menu {
   position: relative;
   float: left;
   margin: 1.7rem 0; }
-  @media screen and (max-width: 515px) {
+  @media screen and (max-width: 915px) {
     .co_name {
       margin: 1rem auto 0; } }
 
@@ -484,7 +484,7 @@ ul.menu {
   position: relative;
   float: right;
   margin: 1.7rem 0; }
-  @media screen and (max-width: 515px) {
+  @media screen and (max-width: 915px) {
     .contact_us {
       margin: .8rem auto 1.6rem;
       float: left; } }
